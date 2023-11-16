@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class CatePage extends StatelessWidget {
+class SearchPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("分类界面"),
+        child: Text("搜索页面"),
       ),
     );
   }
